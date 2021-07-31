@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  Name: July31
+  name: July31
   demands:
   - agent.name -equals Agent1
 
